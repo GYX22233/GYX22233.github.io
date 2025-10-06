@@ -25,7 +25,7 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 
 ### Article
-[1] **Yingxue Gao**, et al, "_Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping_", in _IEEE Transactions on Computers__. (**Submitted**). 
+[1] **Yingxue Gao**, et al, "_Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping_", in _IEEE Transactions on Computers_. (**Submitted**). 
 
 [2] **Yingxue Gao**, Teng Wang, Yang Yang, Lei Gong, Xianglan Chen, Chao Wang, Xi Li, Xuehai Zhou, "_Advancing Neuromorphic Architecture Towards Emerging Spiking Neural Network on FPGA_", in _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, pp. 3465-3478, Sep. 2025. (**TCAD’2025, CCF-A**).
 

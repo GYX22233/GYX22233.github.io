@@ -18,11 +18,11 @@ I am a Lecturer with the School of Integrated Circuit Science and Engineering at
 • AI Hardware Acceleration
 
 ### Education& Work Experience
-• Lecturer, Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025
+• Lecturer in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025
 
-• Ph.D, University of Science and Technology of China (USTC), Hefei, China, 2025
+• Ph.D in University of Science and Technology of China (USTC), Hefei, China, 2025
 
-• B.S., Dalian University of Technology (DLUT), Dalian, China, 2020
+• B.S. in Dalian University of Technology (DLUT), Dalian, China, 2020
 
 ### Publications
 [1] **Yingxue Gao**, Teng Wang, Yang Yang, Lei Gong, Xianglan Chen, Chao Wang, Xi Li, Xuehai Zhou, "_Advancing Neuromorphic Architecture Towards Emerging Spiking Neural Network on FPGA_", in _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, pp. 3465-3478, Sep. 2025. (**TCAD’2025, CCF-A**).

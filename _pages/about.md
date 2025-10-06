@@ -13,6 +13,7 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 ### Rresearch Interests
 • FPGA Accelerator Design  
+• Accelerator Design for Security  
 • Advanced Cryptographic Hardware Acceleration  
 • Post-Quantum Cryptographic Hardware Acceleration  
 • AI Hardware Acceleration

@@ -64,4 +64,4 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 ### Correspondence
 • **Email**: gyingxue@njupt.enu.cn  
-• **Address**: Xianlin Campus：163 Xianlin Road, Qixia District, Nanjing, Jiangsu Province, 210023
+• **Address**: Xianlin Campus: 163 Xianlin Road, Qixia District, Nanjing, Jiangsu Province, 210023

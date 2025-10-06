@@ -57,11 +57,11 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 
 ### Service
-• **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee
-• **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation
+• **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee  
+• **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation  
 • **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing
 
 
 ### Correspondence
-• **Email**: gyingxue@njupt.enu.cn
+• **Email**: gyingxue@njupt.enu.cn  
 • **Address**: Xianlin Campus：163 Xianlin Road, Qixia District, Nanjing, Jiangsu Province, 210023

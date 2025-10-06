@@ -11,7 +11,7 @@ redirect_from:
 I am an assistant professor with the School of Integrated Circuit Science and Engineering at Nanjing University of Posts. Previously, I received the Ph.D. degree in Computer Science and Technology from the University of Science and Technology of China (USTC) in June 2025 and the B.S. degree in Computer Science and Technology from the Dalian University of Technology (DLUT) in June 2020. My research interests include FPGA Accelerator Design, Advanced Cryptographic Hardware Acceleration, Post-Quantum Cryptographic Hardware Acceleration, and AI Hardware Acceleration. I serve as an Executive Committee Member of the CCF Fault-Tolerant Computing Technical Committee.
 
 
-### Rresearch Interest
+### Rresearch Interests
 • FPGA Accelerator Design  
 • Advanced Cryptographic Hardware Acceleration  
 • Post-Quantum Cryptographic Hardware Acceleration  
@@ -24,7 +24,7 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 • B.S. in Dalian University of Technology (DLUT), Dalian, China, 2020
 
 
-### Article
+### Publications
 [1] **Yingxue Gao**, et al, "_Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping_", in _IEEE Transactions on Computers_. (**Submitted**). 
 
 [2] **Yingxue Gao**, Teng Wang, Yang Yang, Lei Gong, Xianglan Chen, Chao Wang, Xi Li, Xuehai Zhou, "_Advancing Neuromorphic Architecture Towards Emerging Spiking Neural Network on FPGA_", in _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, pp. 3465-3478, Sep. 2025. (**TCAD’2025, CCF-A**).
@@ -56,7 +56,7 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 • IET Computers & Digital Techniques
 
 
-### Service
+### Services
 • **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee  
 • **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation ("Advanced Cryptography Hardware Acceleration")  
 • **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing

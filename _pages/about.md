@@ -11,16 +11,18 @@ redirect_from:
 I am a Lecturer with the School of Integrated Circuit Science and Engineering at Nanjing University of Posts. Previously, I received the Ph.D. degree in Computer Science and Technology from the University of Science and Technology of China (USTC) in June 2025 and the B.S. degree in Computer Science and Technology from the Dalian University of Technology (DLUT) in June 2020. My research interests include FPGA Accelerator Design, Advanced Cryptographic Hardware Acceleration, Post-Quantum Cryptographic Hardware Acceleration, and AI Hardware Acceleration. I serve as an Executive Committee Member of the CCF Technical Committee on Fault-Tolerant Computing.
 
 
-### RESEARCH INTERESTS
+### Rresearch Interests
 • FPGA Accelerator Design  
 • Advanced Cryptographic Hardware Acceleration  
 • Post-Quantum Cryptographic Hardware Acceleration  
 • AI Hardware Acceleration
 
-### EDUCATION & Work Experience
-• Lecturer in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
-• Ph.D in University of Science and Technology of China (USTC), Hefei, China, 2025  
-• B.S. in Dalian University of Technology (DLUT), Dalian, China, 2020
+### Education& Work Experience
+• Lecturer, Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025
+
+• Ph.D, University of Science and Technology of China (USTC), Hefei, China, 2025
+
+• B.S., Dalian University of Technology (DLUT), Dalian, China, 2020
 
 ### Publications
 [1] **Yingxue Gao**, Teng Wang, Yang Yang, Lei Gong, Xianglan Chen, Chao Wang, Xi Li, Xuehai Zhou, "_Advancing Neuromorphic Architecture Towards Emerging Spiking Neural Network on FPGA_", in _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, pp. 3465-3478, Sep. 2025. (**TCAD’2025, CCF-A**).

@@ -12,10 +12,13 @@ I am a Lecturer with the School of Integrated Circuit Science and Engineering at
 
 RESEARCH INTERESTS
 ======
-FPGA Accelerator Design
-Advanced Cryptographic Hardware Acceleration
-Post-Quantum Cryptographic Hardware Acceleration
-AI Hardware Acceleration
+• FPGA Accelerator Design
+
+• Advanced Cryptographic Hardware Acceleration
+
+• Post-Quantum Cryptographic Hardware Acceleration
+
+• AI Hardware Acceleration
 
 EDUCATION
 ======

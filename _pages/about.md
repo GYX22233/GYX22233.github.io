@@ -20,9 +20,9 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 
 ### Education & Work Experience
-• Assistant Professor in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
-• Ph.D in University of Science and Technology of China (USTC), Hefei, China, 2025  
-• B.S. in Dalian University of Technology (DLUT), Dalian, China, 2020
+• **Assistant Professor** in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
+• **Ph.D.** in University of Science and Technology of China (USTC), Hefei, China, 2025  
+• **B.S.** in Dalian University of Technology (DLUT), Dalian, China, 2020
 
 
 ### Publications

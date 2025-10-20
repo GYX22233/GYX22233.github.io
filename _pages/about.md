@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor with the School of Integrated Circuit Science and Engineering at Nanjing University of Posts. Previously, I received the Ph.D. degree in Computer Science and Technology from the University of Science and Technology of China (USTC) in June 2025 and the B.S. degree in Computer Science and Technology from the Dalian University of Technology (DLUT) in June 2020. My research interests include FPGA Accelerator Design, Accelerator Design for Security, Advanced Cryptographic Hardware Acceleration, Post-Quantum Cryptographic Hardware Acceleration, and AI Hardware Acceleration. I serve as an Executive Committee Member of the CCF Fault-Tolerant Computing Technical Committee.
+I am an associate professor with the School of Integrated Circuit Science and Engineering at Nanjing University of Posts. Previously, I received the Ph.D. degree in Computer Science and Technology from the University of Science and Technology of China (USTC) in June 2025 and the B.S. degree in Computer Science and Technology from the Dalian University of Technology (DLUT) in June 2020. My research interests include FPGA Accelerator Design, Accelerator Design for Security, Advanced Cryptographic Hardware Acceleration, Post-Quantum Cryptographic Hardware Acceleration, and AI Hardware Acceleration. I serve as an Executive Committee Member of the CCF Fault-Tolerant Computing Technical Committee.
 
 
 ## Research Interests
@@ -20,7 +20,7 @@ I am an assistant professor with the School of Integrated Circuit Science and En
 
 
 ## Education & Work Experience
-• **Assistant Professor** in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
+• **Associate Professor** in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
 • **Ph.D.** in University of Science and Technology of China (USTC), Hefei, China, 2025  
 • **B.S.** in Dalian University of Technology (DLUT), Dalian, China, 2020
 

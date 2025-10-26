@@ -49,9 +49,10 @@ I am an associate professor with the School of Integrated Circuit Science and En
 [11] Teng Wang, Lei Gong, Chao Wang, Yang Yang, **Yingxue Gao**, "_Multi-clusters: An Efficient Design Paradigm of NN Accelerator Architecture Based on FPGA_", _IFIP International Conference on Network and Parallel Computing_, pp. 143-154. (**NPC’2022, CCF-C**)
 
 ## Reviewer
-• IEEE Transactions on Very Large Scale Integration Systems  
-• IEEE Transactions on Circuits and Systems I: Regular Papers  
-• IEEE/ACM Transactions on Computational Biology and Bioinformatics  
+• IEEE Transactions on Very Large Scale Integration Systems (TVLSI)  
+• IEEE Transactions on Circuits and Systems I: Regular Papers  (TCAS-I)  
+• IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)   
+• Frontiers of Information Technology & Electronic Engineering (FITEE, T1)  
 • International Journal of Electronics  
 • Microprocessors and Microsystems  
 • IET Computers & Digital Techniques

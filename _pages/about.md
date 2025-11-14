@@ -59,11 +59,11 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Award
-• **The 2025 CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design**, CCF Integrated Circuit Design and Automation Technical Committee
+• **The 2025 CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design**, CCF Integrated Circuit Design and Automation (CCFDAC) Technical Committee
 
 ## Services
 • **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee  
-• **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation ("Advanced Cryptography Hardware Acceleration")  
+• **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation (CCFDAC) ("Advanced Cryptography Hardware Acceleration")  
 • **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing
 
 

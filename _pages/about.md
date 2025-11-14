@@ -58,6 +58,9 @@ I am an associate professor with the School of Integrated Circuit Science and En
 • IET Computers & Digital Techniques
 
 
+## Award
+• **The 2025 CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design**, CCF Integrated Circuit Design and Automation Technical Committee
+
 ## Services
 • **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee  
 • **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation ("Advanced Cryptography Hardware Acceleration")  

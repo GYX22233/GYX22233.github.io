@@ -19,9 +19,9 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Education & Work Experience
-• **Associate Professor** in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
-• **Ph.D.** in University of Science and Technology of China (USTC), Hefei, China, 2025  
-• **B.S.** in Dalian University of Technology (DLUT), Dalian, China, 2020
+• Associate Professor in Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China, Since 2025  
+• Ph.D. in University of Science and Technology of China (USTC), Hefei, China, 2025  
+• B.S. in Dalian University of Technology (DLUT), Dalian, China, 2020
 
 
 ## Publications
@@ -58,7 +58,7 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Award
-• **The 2025 CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design**, CCF Integrated Circuit Design and Automation (CCFDAC) Technical Committee
+• **The 2025 CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design**, CCF Integrated Circuit Design and Automation Technical Committee
 
 ## Services
 • **Technical Program Committee (TPC)**, Design Automation Conference (DAC, Top Conference in EDA and Design)  

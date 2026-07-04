@@ -75,7 +75,7 @@ I am an associate professor with the School of Integrated Circuit Science and En
 • **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology,”** 《电子与信息学报》  
 • **Tutorial Chair**, ITC-Asia 2026  
 • **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee (CCF容错计算专委会)    
-• **Lead Organizer of the Special Topic on “Hardware Security,”** 《网络与信息安全学报》
+• **Lead Organizer of the Special Topic on “Hardware Security,”** 《网络与信息安全学报》  
 • **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation (CCFDAC) ("Advanced Cryptography Hardware Acceleration")  
 • **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing
 

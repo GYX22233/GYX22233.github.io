@@ -61,20 +61,20 @@ I am an associate professor with the School of Integrated Circuit Science and En
 • Frontiers of Information Technology & Electronic Engineering (FITEE, T1)  
 • International Journal of Electronics  
 • Microprocessors and Microsystems  
-• IET Computers & Digital Techniques 
+• IET Computers & Digital Techniques  
 • 《电子与信息学报》
 
 
 ## Award
-• **CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design (博士学位论文激励计划)**, 2025, CCF Integrated Circuit Design and Automation Technical Committee (CCF集成电路设计专委会) 
+• **CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design (博士学位论文激励计划)**, 2025, CCF Integrated Circuit Design and Automation Technical Committee (CCF集成电路设计专委会)   
 • **Outstanding Scholar of the Xinghang Program (星航计划优秀学者)**, 2026, 《电子与信息学报》
 
 ## Services
 • **Technical Program Committee (TPC)**, Design Automation Conference (DAC, CCF-A)  
-• **Technical Program Committee (TPC)**, CCF Chip 2026
-• **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology,”** 《电子与信息学报》
-• **Tutorial Chair**, ITC-Asia 2026
-• **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee (CCF容错计算专委会)  
+• **Technical Program Committee (TPC)**, CCF Chip 2026  
+• **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology,”** 《电子与信息学报》  
+• **Tutorial Chair**, ITC-Asia 2026  
+• **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee (CCF容错计算专委会)    
 • **Lead Organizer of the Special Topic on “Hardware Security,”** 《网络与信息安全学报》
 • **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation (CCFDAC) ("Advanced Cryptography Hardware Acceleration")  
 • **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing

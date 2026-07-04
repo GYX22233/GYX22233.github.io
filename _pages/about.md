@@ -54,7 +54,7 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 ## Reviewer
 • IEEE Transactions on Very Large Scale Integration Systems (TVLSI)  
-• IEEE Transactions on Circuits and Systems I: Regular Papers  (TCAS-I) 
+• IEEE Transactions on Circuits and Systems I: Regular Papers  (TCAS-I)   
 • IEEE Transactions on Circuits and Systems II: Express Briefs  (TCAS-II) 
 • IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)   
 • Frontiers of Information Technology & Electronic Engineering (FITEE, T1)  

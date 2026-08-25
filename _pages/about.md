@@ -73,9 +73,9 @@ I am an associate professor with the School of Integrated Circuit Science and En
 - 2026.05, **Invited Talk**, “[Advanced Cryptographic Hardware Acceleration](https://www.risalliance.com/%E5%85%88%E8%BF%9B%E5%AF%86%E7%A0%81%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F/),” RISTA Frontier Lecture Series, Season 5, Episode 3
 - 2026.04, **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology”**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
 - 2026, **Lead Organizer of the Special Topic on “Hardware Security”**, *Journal of Cybersecurity* (《网络与信息安全学报》)
-- 2025.11, **Recipient of the CCF Doctoral Dissertation Incentive Program (CCF博士学位论文激励计划)**, CCF Technical Committee on Integrated Circuit Design
-- 2025.11, **Forum Chair**, “Advanced Cryptographic Hardware Acceleration,” [the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025)](https://ccf.org.cn/ccfdac2025/brief_1006)
-- 2025.11, **Invited Talk**, “Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping,” [the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025)](https://ccf.org.cn/ccfdac2025/brief_1006)
+- 2025.11, **Recipient of the CCF Doctoral Dissertation Incentive Program (CCF博士学位论文激励计划)**, CCF Technical Committee on Integrated Circuit Design.
+- 2025.11, **Forum Chair**, “Advanced Cryptographic Hardware Acceleration,” the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025).
+- 2025.11, **Invited Talk**, “Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping,” the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025).
 - 2025.10, **Invited Talk**, “[Artificial Intelligence and Post-Quantum Cryptographic Hardware Acceleration](https://hrbust.edu.cn/info/1069/28284.htm),” CCF Campus Outreach Program, No. 1319
 - 2025, **Technical Program Committee (TPC) Member**, ACM/IEEE Design Automation Conference (DAC, CCF-A)
 - 2025, **Executive Committee Member**, CCF Technical Committee on Fault-Tolerant Computing (CCF容错计算专委会)

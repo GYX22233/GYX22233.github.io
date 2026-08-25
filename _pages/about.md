@@ -65,6 +65,8 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Awards & Academic Activities
+## Awards & Academic Activities
+
 - 2026.08, **Forum Chair**, [CF01: The 11th National Hardware Security Forum (I)](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824), CCF Chip 2026
 - 2026.08, **Tutorial Chair**, ITC-Asia 2026
 - 2026.08, **Session Chair**, ITC-Asia 2026
@@ -74,11 +76,11 @@ I am an associate professor with the School of Integrated Circuit Science and En
 - 2026.04, **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology”**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
 - 2026, **Lead Organizer of the Special Topic on “Hardware Security”**, *Journal of Cybersecurity* (《网络与信息安全学报》)
 - 2025.11, **Recipient of the CCF Doctoral Dissertation Incentive Program (CCF博士学位论文激励计划)**, CCF Technical Committee on Integrated Circuit Design
-- 2025.11, **Forum Chair and Invited Speaker**, “Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping,” [the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025)](https://ccf.org.cn/ccfdac2025/brief_1006)
+- 2025.11, **Forum Chair**, “Advanced Cryptographic Hardware Acceleration,” [the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025)](https://ccf.org.cn/ccfdac2025/brief_1006)
+- 2025.11, **Invited Talk**, “Enhancing Kyber Acceleration in Post-Quantum Cryptography through Configurable Hardware Architecture and Efficient Dataflow Mapping,” [the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC 2025)](https://ccf.org.cn/ccfdac2025/brief_1006)
 - 2025.10, **Invited Talk**, “[Artificial Intelligence and Post-Quantum Cryptographic Hardware Acceleration](https://hrbust.edu.cn/info/1069/28284.htm),” CCF Campus Outreach Program, No. 1319
 - 2025, **Technical Program Committee (TPC) Member**, ACM/IEEE Design Automation Conference (DAC, CCF-A)
 - 2025, **Executive Committee Member**, CCF Technical Committee on Fault-Tolerant Computing (CCF容错计算专委会)
-
 
 
 ## Correspondence

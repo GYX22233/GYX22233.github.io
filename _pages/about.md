@@ -65,8 +65,6 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Awards & Academic Activities
-## Awards & Academic Activities
-
 - 2026.08, **Forum Chair**, [CF01: The 11th National Hardware Security Forum (I)](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824), CCF Chip 2026
 - 2026.08, **Tutorial Chair**, ITC-Asia 2026
 - 2026.08, **Session Chair**, ITC-Asia 2026

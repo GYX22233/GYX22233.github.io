@@ -64,19 +64,19 @@ I am an associate professor with the School of Integrated Circuit Science and En
 • 《电子与信息学报》
 
 
-## Award
-• **CCF Incentive Program for Outstanding Doctoral Dissertations in Integrated Circuit Design (博士学位论文激励计划)**, 2025, CCF Integrated Circuit Design and Automation Technical Committee (CCF集成电路设计专委会)   
-• **Outstanding Scholar of the Xinghang Program (星航计划优秀学者)**, 2026, 《电子与信息学报》
+## Awards & Academic Service
+- 2026.08, **Forum Chair**, [CF01: The 11th National Hardware Security Forum (I)](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824), CCF Chip 2026
+- 2026.08, **Tutorial Chair**, ITC-Asia 2026
+- 2026.08, **Session Chair**, ITC-Asia 2026
+- 2026.07, **Technical Program Committee (TPC) Member**, CCF Chip 2026
+- 2026.06, **Excellent Scholar of the “Xinghang Program” (星航计划优秀学者)**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
+- 2026.04, **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology”**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
+- 2026, **Lead Organizer of the Special Topic on “Hardware Security”**, *Journal of Cybersecurity* (《网络与信息安全学报》)
+- 2025.11, **Recipient of the CCF Doctoral Dissertation Incentive Program (CCF博士学位论文激励计划)**, CCF Technical Committee on Integrated Circuit Design
+- 2025.11, **Forum Chair**, “Advanced Cryptographic Hardware Acceleration,” the 6th CCF Conference on Integrated Circuits Design and Automation (CCFDAC)
+- 2025, **Technical Program Committee (TPC) Member**, Design Automation Conference (DAC, CCF-A)
+- 2025, **Executive Committee Member**, CCF Technical Committee on Fault-Tolerant Computing (CCF容错计算专委会)
 
-## Services
-• **Technical Program Committee (TPC)**, Design Automation Conference (DAC, CCF-A)  
-• **Technical Program Committee (TPC)**, CCF Chip 2026  
-• **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology,”** 《电子与信息学报》  
-• **Tutorial Chair**, ITC-Asia 2026  
-• **Executive Committee Member**, CCF Fault-Tolerant Computing Technical Committee (CCF容错计算专委会)    
-• **Lead Organizer of the Special Topic on “Hardware Security,”** 《网络与信息安全学报》  
-• **Forum Chair**, 2025 CCF 6th Conference on Integrated Circuits Design and Automation (CCFDAC) ("Advanced Cryptography Hardware Acceleration")  
-• **Student Chair**, 2025 CCF 21st National Conference on Fault-Tolerant Computing
 
 
 ## Correspondence

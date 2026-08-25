@@ -65,9 +65,9 @@ I am an associate professor with the School of Integrated Circuit Science and En
 
 
 ## Awards & Academic Service
-- 2026.08, **Forum Chair**, [CF01: The 11th National Hardware Security Forum (I)](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824), CCF Chip 2026
 - 2026.08, **Tutorial Chair**, ITC-Asia 2026
 - 2026.08, **Session Chair**, ITC-Asia 2026
+- 2026.07, **Forum Chair**, [CF01: The 11th National Hardware Security Forum (I)](https://mp.weixin.qq.com/s/bYHMRY5FYPA1e3eARrapqA?click_id=1173848824), CCF Chip 2026
 - 2026.07, **Technical Program Committee (TPC) Member**, CCF Chip 2026
 - 2026.06, **Excellent Scholar of the “Xinghang Program” (星航计划优秀学者)**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
 - 2026.04, **Editorial Board Member for the Special Issue on “Advanced Integrated Circuit Technology”**, *Journal of Electronics & Information Technology* (《电子与信息学报》)
